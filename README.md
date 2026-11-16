@@ -1,8 +1,16 @@
 # 🚀 Terraform Modules Project – AWS Infrastructure Automation
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/AWS-Cloud%20Infrastructure-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white](https://img.shields.io/badge/AWS-Cloud%20Infrastructure-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Status-Completed-success?style=for-the-badge](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)" /> \</p>
 
-\<p align="center">   \<b>Building Reusable, Scalable & Maintainable AWS Infrastructure Using Terraform Modules\</b> \</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>Building Reusable, Scalable & Maintainable AWS Infrastructure Using Terraform Modules</b>
+</p>
+
 
 ---
 
