@@ -233,10 +233,17 @@ Through this project, I gained practical knowledge of:
 
 ---
 
-\<p align="center">
-&#x20; ⭐ If you find this project useful, consider giving it a star!
-\</p>
 
-\<p align="center">
-&#x20; \<b>Learn • Build • Automate • Deploy\</b>
-\</p>
+---
+
+<p align="center">
+  ⭐ If you find this project useful, please give it a star!
+</p>
+
+<p align="center">
+  <b>Learn • Build • Automate • Deploy</b>
+</p>
+
+<p align="center">
+  Made with ❤️ by <b>Abhishek Saste</b>
+</p>
